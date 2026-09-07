@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>To-do</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrapper">
+    <h1>To-do</h1>
+    <p id="status">Waiting..</p>
+ 
+    <form id="task-form">
+      <input type="text" id="task-input" placeholder="Add a task" autocomplete="off" />
+      <button type="submit">Add</button>
+    </form>
+ 
+    <ul id="task-list"></ul>
+ 
+    <button onclick="clearCompleted()">Clear Completed</button>
+  </div>
+ 
+  <script src="todo.js"></script>
+</body>
+</html>
+ 
