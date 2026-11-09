@@ -1,6 +1,7 @@
 # ✅ To-Do List
 
-### JavaScript Bootcamp Assignment
+<img width="619" height="401" alt="To-do list SS" src="https://github.com/user-attachments/assets/ad3348f2-0255-469b-9174-210a75892361" />
+
 
 ## About the Project
 
