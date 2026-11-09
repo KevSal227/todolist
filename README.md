@@ -1,22 +1,52 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# ✅ To-Do List
 
-### Goal: Build a Simple Todo List
+### JavaScript Bootcamp Assignment
 
-### How to submit your code for review:
+## About the Project
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+This assignment focuses on building a simple to-do list application.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+The idea is to create something that helps users organize their daily tasks while practicing JavaScript fundamentals and working with user interactions.
+
+## Project Goals
+
+- Create an interface where users can enter tasks.
+- Display tasks in a list.
+- Practice adding and removing elements from a webpage.
+- Work with user input and event listeners.
+- Build a simple, easy-to-use interface.
+
+## Suggested Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Concepts to Practice
+
+- DOM manipulation.
+- JavaScript event listeners.
+- Working with arrays.
+- Handling user input.
+- Updating webpage content dynamically.
+- Organizing application logic.
+
+## Project Status
+
+**Assignment instructions available — implementation not yet uploaded.**
+
+The repository currently contains the original bootcamp assignment README but no application code.
+
+## Next Steps
+
+1. Build the HTML and CSS interface.
+2. Add functionality for creating tasks.
+3. Allow users to mark tasks as completed.
+4. Add the ability to remove tasks.
+5. Test the application and upload the completed code.
+
+## Author
+
+**Kevin Salazar**
+
+[GitHub](https://github.com/KevSal227)
