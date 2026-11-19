@@ -1,6 +1,7 @@
 # ✅ To-Do List
 
-<img width="619" height="401" alt="To-do list SS" src="https://github.com/user-attachments/assets/ad3348f2-0255-469b-9174-210a75892361" />
+<img width="660" height="484" alt="Screenshot 2026-11-19 at 4 16 07 PM" src="https://github.com/user-attachments/assets/beb7771d-4f3d-4799-8905-7c68ad209635" />
+
 
 
 ## About the Project
